@@ -1,0 +1,12 @@
+# .gitignore
+
+# Python virtual environment files
+venv/
+.env/
+*.pyc
+
+# Other common exclusions
+__pycache__/
+*.egg-info/
+dist/
+build/
